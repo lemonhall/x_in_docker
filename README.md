@@ -1,3 +1,6 @@
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/637919/180819867-04e81762-5fdb-4607-b778-3e3ba775beef.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/637919/180819909-9ed8ee7e-2909-4f7d-885f-69d976bfd339.png">
 
 
 ### 先拿到一个bash
